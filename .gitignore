@@ -1,0 +1,14 @@
+# 환경 변수 (API 키)
+.env
+.streamlit/secrets.toml
+
+# Python
+__pycache__/
+*.pyc
+
+# Playwright 테스트 결과
+.playwright-mcp/
+
+# 가상환경
+.venv/
+venv/
